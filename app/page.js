@@ -1,10 +1,9 @@
-import Image from 'next/image'
-import styles from './page.module.css'
-
 export default function Home() {
   return (
-    <div>
-      
-    </div>
+      <main>
+          <h1 className="title">Fresh</h1>
+          <p className="title-sub">by 0323k</p>
+      </main>
+
   )
 }
